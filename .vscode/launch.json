@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - VoidMethodTest",
+            "request": "launch",
+            "mainClass": "VoidMethodTest",
+            "projectName": "INFO1_MOD7-Metodos_9eb8aa9a"
+        }
+    ]
+}
