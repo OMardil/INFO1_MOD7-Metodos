@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A0XXXXXXX",
+            "request": "launch",
+            "mainClass": "A0XXXXXXX"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ImprimeObjeto",
+            "request": "launch",
+            "mainClass": "ImprimeObjeto"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - imprimeObjeto",
+            "request": "launch",
+            "mainClass": "imprimeObjeto"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Simple2",
+            "request": "launch",
+            "mainClass": "Simple2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Simple",
+            "request": "launch",
+            "mainClass": "Simple"
+        }
+    ]
+}
