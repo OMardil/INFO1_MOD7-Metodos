@@ -2,6 +2,42 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Problema5",
+            "request": "launch",
+            "mainClass": "Problema5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problema6",
+            "request": "launch",
+            "mainClass": "Problema6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problema4",
+            "request": "launch",
+            "mainClass": "Problema4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problema3",
+            "request": "launch",
+            "mainClass": "Problema3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problema2",
+            "request": "launch",
+            "mainClass": "Problema2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problema1",
+            "request": "launch",
+            "mainClass": "Problema1"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - VoidMethodTest",
             "request": "launch",
             "mainClass": "VoidMethodTest",
